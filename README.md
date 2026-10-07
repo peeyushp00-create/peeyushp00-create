@@ -1,6 +1,6 @@
 ### Hi, I'm Peeyush 👋
 
-Solo founder and full-stack developer building **[SocialRum](https://socialrum.com)** — content intelligence tools for Indian Instagram & YouTube creators.
+co founder and full-stack developer building **[SocialRum](https://socialrum.com)** — content intelligence tools for Indian Instagram & YouTube creators.
 
 I build the whole thing end to end: product, frontend, backend, data pipelines, AI features, design and deployment.
 
